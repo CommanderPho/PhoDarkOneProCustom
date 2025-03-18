@@ -2,12 +2,23 @@
     "name": "phodarkoneprocustom",
     "displayName": "PhoDarkOneProCustom",
     "description": "A custom modification of DarkOnePro theme to make elements more visually distinct to reduce cognitive load.",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "publisher": "phohale",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CommanderPho/PhoDarkOneProCustom.git"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "glow",
+        "low-cognitive-load"
     ],
     "contributes": {
         "themes": [
